@@ -7,7 +7,7 @@ he watches jojo
 who wants to play marvel rivals 🤓
 
 ## Reason 3
-he likes boys
+he likes boys<br/>
 ![jojo](https://raw.githubusercontent.com/Keriebu/test.github.io/refs/heads/main/image.png)
 
 > [!NOTE]
