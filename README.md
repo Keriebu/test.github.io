@@ -15,7 +15,8 @@ he likes boys<br/>
 > [!NOTE]
 > Zion is gay
 
-where he lives<br/>
+where he might live<br/>
+come visit him anytime!
 ```geojson
 {
   "type": "FeatureCollection",
@@ -30,11 +31,11 @@ where he lives<br/>
         "type": "Polygon",
         "coordinates": [
           [
-              [-0,5],
-              [-0,0],
-              [-5,0],
-              [-5,5],
-              [-0,5]
+              [-50,15],
+              [-50,5],
+              [-45,5],
+              [-45,15],
+              [-50,5]
           ]
         ]
       }
